@@ -408,12 +408,92 @@
         {
             margin: 15px;
         }
-            .page
-            {
-                display:none;
-            }
-            .login
-            {
-                display: block;
-            }
-            
+        .page
+        {
+            display:none;
+        }
+        .login
+        {
+            display: block;
+        }
+        /* --------------------------------------------------------------------------- */
+        .aboutUs
+        {
+            border: 1px solid;
+            text-align: center;
+            width: 1318px;
+            height: 60px;
+        }
+        .aboutUsContent
+        {
+            border: 1px solid;
+            height: 500px;
+            width: 1318px;
+            margin: 5px;
+            padding: 5px;
+        }
+        .aboutUsTeam
+        {
+            border: 1px solid;
+            height: 275px;
+            width: 1318px;
+            margin: 4px;
+            padding: 4px;
+        }
+        .aboutUsHead
+        {
+            border: 1px solid;
+            width: 1305px;
+            height: 30px;
+            text-align: center;
+            margin: 3px;
+            padding: 2px;
+        }
+        .aboutUsTeamMember
+        {
+            border: 1px solid;
+            width: 255px;
+            height: 190px;
+            text-align: center;
+            float: left;
+            margin: 3px;
+            padding-top: 2px;
+        }
+        .aboutUsTeamMemberPic
+        {
+            width: 255px;
+            height: 190px;
+        }
+        .achivements
+        {
+            border: 1px solid;
+            height: 150px;
+            width: 1323;
+            margin: 5px;
+            padding: 5px;
+            text-align: center;
+            font-size: 22;
+            font-family :Arial, Helvetica, sans-serif;
+            font-style: italic;
+        }
+        .clients
+        {
+            border: 1px solid;
+            width: 1323px;
+            height: 150px;
+            padding: 5px;
+            margin: 5px;
+            font-size: 22;
+            font-style: italic;
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+        }
+        .customerReviews
+        {
+            border: 1px solid;
+            width: 1323px;
+            height: 150px;
+            margin: 5px;
+            padding: 5px;
+            text-align: center;
+        }
